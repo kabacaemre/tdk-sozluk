@@ -1,0 +1,2 @@
+# tdk-sozluk
+TDK Exercies
